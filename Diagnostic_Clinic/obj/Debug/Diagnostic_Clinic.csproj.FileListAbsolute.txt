@@ -1,0 +1,124 @@
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.AddFindings.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Appointment.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Container.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.EditPatient.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.EditService.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Findings.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Login.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.NewPatient.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.NewService.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.PatientList.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.PatientRecords.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Payment.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.PaymentRecord.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Properties.Resources.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Services.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.txtPassword.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.ViewPaymentRecord.resources
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.csproj.GenerateResource.Cache
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\bin\Debug\Diagnostic_Clinic.exe.config
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\bin\Debug\Diagnostic_Clinic.exe
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\bin\Debug\Diagnostic_Clinic.pdb
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.exe
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.pdb
+C:\Users\Rigel Kent\Documents\Diagnostic_Clinic\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\bin\Debug\Diagnostic_Clinic.exe.config
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.exe
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.pdb
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\bin\Debug\Diagnostic_Clinic.exe
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\bin\Debug\Diagnostic_Clinic.pdb
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.AddFindings.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Appointment.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Container.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.EditPatient.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.EditService.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Findings.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Login.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.NewPatient.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.NewService.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.PatientList.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.PatientRecords.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Payment.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.PaymentRecord.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Services.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.ViewPaymentRecord.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.UserSettings.resources
+C:\Users\Lenovo\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.csprojResolveAssemblyReference.cache
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\bin\Debug\Diagnostic_Clinic.exe.config
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\bin\Debug\Diagnostic_Clinic.exe
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\bin\Debug\Diagnostic_Clinic.pdb
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.AddFindings.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Appointment.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Container.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.EditPatient.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.EditService.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Findings.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Login.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.NewPatient.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.NewService.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.PatientList.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.PatientRecords.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Payment.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.PaymentRecord.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Properties.Resources.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Services.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.UserSettings.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.ViewPaymentRecord.resources
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.csproj.GenerateResource.Cache
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.exe
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.pdb
+C:\Users\Kisoy\Desktop\Diagnostic_Clinic_Final\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.csprojResolveAssemblyReference.cache
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\bin\Debug\Diagnostic_Clinic.exe.config
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.exe
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.pdb
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\bin\Debug\Diagnostic_Clinic.exe
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\bin\Debug\Diagnostic_Clinic.pdb
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.csprojResolveAssemblyReference.cache
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.AddFindings.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Appointment.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Container.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.EditPatient.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.EditService.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Findings.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Login.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.NewPatient.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.NewService.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.PatientList.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.PatientRecords.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Payment.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.PaymentRecord.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Properties.Resources.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Services.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.UserSettings.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.ViewPaymentRecord.resources
+D:\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.csproj.GenerateResource.Cache
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\bin\Debug\Diagnostic_Clinic.exe.config
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.exe
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.pdb
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\bin\Debug\Diagnostic_Clinic.exe
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\bin\Debug\Diagnostic_Clinic.pdb
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.AddFindings.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Appointment.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Container.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.EditPatient.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.EditService.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Findings.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Login.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.NewPatient.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.NewService.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.PatientList.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.PatientRecords.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Payment.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.PaymentRecord.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Properties.Resources.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Services.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.UserSettings.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.ViewPaymentRecord.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.csproj.GenerateResource.Cache
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\bin\Debug\diagnostic.accdb
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.Receipt.resources
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\RdlCompile.cache
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\RdlCompile.compiled
+C:\Users\rigel\Desktop\Diagnostic_Clinic_Final - Copy\Diagnostic_Clinic\obj\Debug\Diagnostic_Clinic.csprojResolveAssemblyReference.cache

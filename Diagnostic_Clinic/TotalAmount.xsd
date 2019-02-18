@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="TotalAmount" targetNamespace="http://tempuri.org/TotalAmount.xsd" xmlns:mstns="http://tempuri.org/TotalAmount.xsd" xmlns="http://tempuri.org/TotalAmount.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="diagnosticConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="diagnosticConnectionString (Settings)" PropertyReference="ApplicationSettings.Diagnostic_Clinic.Properties.Settings.GlobalReference.Default.diagnosticConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="appointmentTableAdapter" GeneratorDataComponentClassName="appointmentTableAdapter" Name="appointment" UserDataComponentName="appointmentTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="diagnosticConnectionString (Settings)" DbObjectName="appointment" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT total FROM appointment</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="total" DataSetColumn="total" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="TotalAmount" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="TotalAmount" msprop:Generator_UserDSName="TotalAmount">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="appointment" msprop:Generator_TableClassName="appointmentDataTable" msprop:Generator_TableVarName="tableappointment" msprop:Generator_TablePropName="appointment" msprop:Generator_RowDeletingName="appointmentRowDeleting" msprop:Generator_RowChangingName="appointmentRowChanging" msprop:Generator_RowEvHandlerName="appointmentRowChangeEventHandler" msprop:Generator_RowDeletedName="appointmentRowDeleted" msprop:Generator_UserTableName="appointment" msprop:Generator_RowChangedName="appointmentRowChanged" msprop:Generator_RowEvArgName="appointmentRowChangeEvent" msprop:Generator_RowClassName="appointmentRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="total" msprop:Generator_ColumnVarNameInTable="columntotal" msprop:Generator_ColumnPropNameInRow="total" msprop:Generator_ColumnPropNameInTable="totalColumn" msprop:Generator_UserColumnName="total" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
